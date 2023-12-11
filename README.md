@@ -3,7 +3,7 @@ This repo has a code for recommending movies through collaborative filtering, co
 
 Recommendation Systems for Movies
 Movies listed in the Full MovieLens Dataset.Metadata on over 45,000 movies.
-The dataset consists of movies released on or before July 2017.
+- The dataset consists of movies released on or before July 2017.
 Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages.
 Dataset contain 26 million ratings from over 270,000 users.
 Ratings are on a scale of 1-5 and have been obtained from the official GroupLens website

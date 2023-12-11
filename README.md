@@ -8,7 +8,7 @@ This repo has a code for recommending movies through collaborative filtering, co
 - Dataset contain 26 million ratings from over 270,000 users. 
 - Ratings are on a scale of 1-5 and have been obtained from the official GroupLens website
   
-In this notebook, there are the following techniques for providing movie recomendation system explored: 
+In this repo, there are the following techniques for providing movie recomendation system explored: 
 - Recommendation based on top __Weighted scores for movies on platform__ - These movies can be recommended under "__Popular Picks__"
 - __Content-based__ recommendation system 1. Genre based filtering: These movies can be recommended as "__Action Picks__," "__Drama Discoveries__," or "__Comedy Gems__" etc. 2. Movies recommended based on other movie features can be recommended under "__Because you watched x__"
 - __Collaborative Filtering__ -based recommendation syste: Movies recommended based on collaborative filtering can be placed under "__Recommended for You__" or "__Popular among similar Users__" 
